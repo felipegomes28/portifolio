@@ -1,0 +1,41 @@
+{
+    "name": "Felipe G Andrade",
+    "photo": "https://avatars.githubusercontent.com/u/57190014?v=4",
+    "job": "Desenvolvimento de treinamento Junior I",
+    "location": "Russas - CE",
+    "phone": "(88 9 9284-1820",
+    "email": "fg1andrade@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        }
+      ],
+      "softSkills": [
+        "Empatia",
+        "Liderança",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (intermediário)"
+    ],
+    "portfolio": [
+      {
+        "name": "Curso na DIO para a criação de uma Pokedex",
+        "url": "https://github.com/felipegomes28/js-developer-pokedex",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "FitBank",
+        "period": "2022 - até o momento",
+        "description": ""
+      }
+    ]
+  }
