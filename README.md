@@ -13,4 +13,4 @@
 - Estilizando a listagem dos idiomas
 - Estilizando o portifolio
 - Enriquecendo as experiências profissionais
-- Adicionando as nossas habilidades
+- Adicionando as habilidades
